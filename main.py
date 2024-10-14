@@ -82,17 +82,53 @@ from operator import index
 
 # 8
 
-list = []
-n = int(input('Kiek pazymiu jus turite: '))
-for i in range (0, n):
-    variable = int(input('Grade: '))
-    list.append(variable)
-print(list)
-
-y = 10
-
-x =[i for i in list if i==y]
-print(len(x))
+# list = []
+# n = int(input('Kiek pazymiu jus turite: '))
+# for i in range (0, n):
+#     variable = int(input('Grade: '))
+#     list.append(variable)
+# print(list)
+#
+# y = 10
+#
+# x =[i for i in list if i==y]
+# print(len(x))
 
 # 9
+
+# list = ['audi', 'bmw', 'opel', 'toyota', 'nissan']
+# print(list)
+# list.sort()
+# print(list)
+# list.reverse()
+# print(list)
+
+# 10
+
+# list = [6, 7, 10, 5, 7, 9, 4, 8]
+# list.sort()
+# print(list)
+# print(list[-3:])
+
+# 11
+
+# list = [6, 7, 3, 5, 7, 1, 4, 8]
+# k = 5
+# count = 0
+# for i in list:
+#     if i < k:
+#         count = count + 1
+# print(count)
+
+# 12
+
+# list = ['hola', 'kosmosas', 'kryzius', 'marsas', 'kopjuteris', 'poperius']
+# print(list[:2])
+# print(list[2:4])
+# print(list[-4:])
+# print(list[2:5:2])
+# list.reverse()
+# print(list)
+
+# 13
 
