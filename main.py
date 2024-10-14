@@ -132,3 +132,18 @@ from operator import index
 
 # 13
 
+# list = []
+#
+# n = int(input("Enter number of elements : "))
+#
+# for i in range(0, n):
+#     ele = int(input())
+#     list.append(ele)
+#
+# print(list)
+# list.sort()
+# print(list)
+#
+# a = print(list[-3:])
+
+# 14
